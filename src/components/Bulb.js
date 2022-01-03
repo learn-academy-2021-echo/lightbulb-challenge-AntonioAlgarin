@@ -7,7 +7,7 @@ class Bulb extends Component{
         <img
           src={this.props.lightToggle}
           alt="lightbulb"
-          style={{ height: "300px" }}
+          style={{ height: "100px" }}
         />
       </div>
     )

@@ -22,7 +22,7 @@ import bulbOn from './images/bulbOn.jpeg'
          //create conditional statement to toggle state
          if (this.state.light === "On") {
             this.setState({light: "Off", color: "White", lightToggle: bulbOff})
-            } else {
+          } else {
                 this.setState({light: "On", color: "Yellow", lightToggle: bulbOn})
             }
         }

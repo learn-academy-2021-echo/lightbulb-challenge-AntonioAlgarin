@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
 import './App.css'
-import Light from './components/Light.js'
+// import Light from './components/Light.js'
 import Header from './components/Header.js'
 import Footer from './components/Footer.js'
+import AddLight from './components/AddLight.js'
 
 class App extends Component{
   render(){
@@ -12,7 +13,7 @@ class App extends Component{
         <br></br>
         <br></br>
         <Header />
-        <Light />
+        <AddLight />
       <br></br>
       <br></br>
       <br></br>
