@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import './App.css'
-import Light from './components/Light'
-import Header from './components/Header'
-import Footer from './components/Footer'
+import Light from './components/Light.js'
+import Header from './components/Header.js'
+import Footer from './components/Footer.js'
 
 class App extends Component{
   render(){
