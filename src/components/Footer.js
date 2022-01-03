@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <div>
-                <footer>Thanks for checking out Part 1 of my Lightbulb challenge!</footer>
+                <footer>Thanks for checking out Part 2 of my Lightbulb challenge!</footer>
             </div>
               )
           }
